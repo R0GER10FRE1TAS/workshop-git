@@ -1,0 +1,1 @@
+from modulos.numeros import calcula_primo
